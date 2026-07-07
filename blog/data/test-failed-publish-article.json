@@ -1,0 +1,14 @@
+{
+  "slug": "test-failed-publish-article",
+  "title": "Test failed article",
+  "body_markdown": "# Test article\n\nThis is a test body for the failed-publish preview.",
+  "body_html": "<h1>Test article</h1>\n<p>This is a test body for the failed-publish preview.</p>\n",
+  "meta_title": "Test failed article",
+  "meta_description": "Test article to preview the failed publish banner in the UI.",
+  "excerpt": "Test article to preview the failed publish banner in the UI.",
+  "primary_keyword": "test failed publish",
+  "image": null,
+  "published_at": "2026-07-07T00:43:26.884Z",
+  "updated_at": "2026-07-07T00:43:26.884Z",
+  "status": "published"
+}
